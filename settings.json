@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ORT1-YCSi.aternos.me",
-    "port": 54189,
+    "ip": "ORT1-8JB6.aternos.me",
+    "port": 20924,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to KIRO IS HERE!",
         "I like to play Minecraft!"
       ]
     },
