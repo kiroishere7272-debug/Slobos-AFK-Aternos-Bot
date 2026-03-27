@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "YORU",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OrttLIFESTEAL.aternos.me:49194",
+    "ip": "OrttLIFESTEAL.aternos.me",
     "port": 49194,
     "version": "",
     "try-creative": false
