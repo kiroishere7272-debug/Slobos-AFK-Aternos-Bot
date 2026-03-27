@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ORT1-8JB6.aternos.me",
-    "port": 20924,
+    "ip": "OrttLIFESTEAL.aternos.me:49194",
+    "port": 49194,
     "version": "",
     "try-creative": false
   },
